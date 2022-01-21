@@ -504,7 +504,7 @@ footer{
     .video{width:600px; height:400px; } 
 } 
 @media screen and (max-width: 750px) { 
-    .video{width:350px; height:300px; } 
+    .video{width:280px; height:300px; } 
 }
   @media screen and (max-width: 600px){
     .inner-width{
