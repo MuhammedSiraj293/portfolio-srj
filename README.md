@@ -1,4 +1,4 @@
-# prortfolio
+# rortfolio
 In this project,  I build a website that  consist of my information in the form of webpages. Links, points, and many other features  make it look attractive and it leave a different impact the person whoever sees it.
 With the help of a HTML, I add features to  webpage. CSS language I build a Good looking for the web page. To add something more dynamic i implemented JavaScript. These languages help to create a good website.
 ## Why HTML, CSS, and JAVASCRIPT?
